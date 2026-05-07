@@ -2,7 +2,7 @@
 
 > Classifies waste into 6 categories in real-time using EfficientNetB0 with Transfer Learning — achieving **97.15% accuracy**, surpassing the existing research benchmark of 96.78%.
 
-🚀 **[Live Demo on Hugging Face Spaces](YOUR_HUGGINGFACE_LINK_HERE)**
+🚀 **[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/khushi-dubey-03/waste-classifier)**
 
 ---
 
